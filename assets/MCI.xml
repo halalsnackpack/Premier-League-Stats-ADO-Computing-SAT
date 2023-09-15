@@ -1,0 +1,173 @@
+<data>
+  <team>
+    <city>Manchester</city>
+    <teamname>MCI</teamname>
+    <middle_name>Man City</middle_name>
+    <venue>Etihad Stadium</venue>
+    
+    <league_results>
+      <rank>1</rank>
+      <played>38</played>
+      <won>28</won>
+      <drawn>5</drawn>
+      <lost>5</lost>
+      <goal_difference>61</goal_difference>
+      <points>89</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>Liverpool</city>
+    <teamname>LIV</teamname>
+    <middle_name>Liverpool FC</middle_name>
+    <venue>Anfield</venue>
+    
+    <league_results>
+      <rank>2</rank>
+      <played>38</played>
+      <won>27</won>
+      <drawn>6</drawn>
+      <lost>5</lost>
+      <goal_difference>48</goal_difference>
+      <points>87</points>
+    </league_results>
+  </team>
+  
+  <!-- Add more teams here -->
+  
+  <team>
+    <city>London</city>
+    <teamname>CHE</teamname>
+    <middle_name>Chelsea FC</middle_name>
+    <venue>Stamford Bridge</venue>
+    
+    <league_results>
+      <rank>3</rank>
+      <played>38</played>
+      <won>24</won>
+      <drawn>8</drawn>
+      <lost>6</lost>
+      <goal_difference>42</goal_difference>
+      <points>80</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>Manchester</city>
+    <teamname>UNITED</teamname>
+    <middle_name>Manchester United</middle_name>
+    <venue>Old Trafford</venue>
+    
+    <league_results>
+      <rank>4</rank>
+      <played>38</played>
+      <won>23</won>
+      <drawn>7</drawn>
+      <lost>8</lost>
+      <goal_difference>36</goal_difference>
+      <points>76</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>London</city>
+    <teamname>ARS</teamname>
+    <middle_name>Arsenal FC</middle_name>
+    <venue>Emirates Stadium</venue>
+    
+    <league_results>
+      <rank>5</rank>
+      <played>38</played>
+      <won>20</won>
+      <drawn>10</drawn>
+      <lost>8</lost>
+      <goal_difference>28</goal_difference>
+      <points>70</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>London</city>
+    <teamname>THFC</teamname>
+    <middle_name>Tottenham Hotspur</middle_name>
+    <venue>Tottenham Hotspur Stadium</venue>
+    
+    <league_results>
+      <rank>6</rank>
+      <played>38</played>
+      <won>18</won>
+      <drawn>12</drawn>
+      <lost>8</lost>
+      <goal_difference>22</goal_difference>
+      <points>66</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>Leicester</city>
+    <teamname>LEI</teamname>
+    <middle_name>Leicester City</middle_name>
+    <venue>King Power Stadium</venue>
+    
+    <league_results>
+      <rank>7</rank>
+      <played>38</played>
+      <won>17</won>
+      <drawn>9</drawn>
+      <lost>12</lost>
+      <goal_difference>18</goal_difference>
+      <points>60</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>West Ham</city>
+    <teamname>WHU</teamname>
+    <middle_name>West Ham United</middle_name>
+    <venue>London Stadium</venue>
+    
+    <league_results>
+      <rank>8</rank>
+      <played>38</played>
+      <won>16</won>
+      <drawn>8</drawn>
+      <lost>14</lost>
+      <goal_difference>10</goal_difference>
+      <points>56</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>Leeds</city>
+    <teamname>LEE</teamname>
+    <middle_name>Leeds United</middle_name>
+    <venue>Elland Road</venue>
+    
+    <league_results>
+      <rank>9</rank>
+      <played>38</played>
+      <won>15</won>
+      <drawn>7</drawn>
+      <lost>16</lost>
+      <goal_difference>-2</goal_difference>
+      <points>52</points>
+    </league_results>
+  </team>
+  
+  <team>
+    <city>Everton</city>
+    <teamname>EVE</teamname>
+    <middle_name>Everton FC</middle_name>
+    <venue>Goodison Park</venue>
+    
+    <league_results>
+      <rank>10</rank>
+      <played>38</played>
+      <won>14</won>
+      <drawn>10</drawn>
+      <lost>14</lost>
+      <goal_difference>0</goal_difference>
+      <points>52</points>
+    </league_results>
+  </team>
+</data>
